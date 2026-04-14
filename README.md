@@ -1,3 +1,5 @@
+<img width="1568" height="738" alt="image" src="https://github.com/user-attachments/assets/cf9af44f-07ce-4a1a-a7ce-c3b9bc449053" />
+
 # 🧊 Fridge Ingredient Detector → Recipe Recommender
 
 > Take a photo of your fridge, AI detects ingredients and recommends recipes you can cook right now.
